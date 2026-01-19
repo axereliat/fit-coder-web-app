@@ -17,6 +17,7 @@ Open `index.html` in your browser to view the site.
 
 ```
 ├── index.html    # Main landing page
+├── styles.css    # Stylesheet
 └── README.md
 ```
 
